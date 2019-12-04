@@ -20,6 +20,8 @@ end
 
 link
 
-def any_phrase
-
+def any_phrase(phrase)
+puts phrase
 end
+
+any_phrase("Do A Barrl Roll!")
